@@ -15,9 +15,9 @@ If you are developing a production application, we recommend using TypeScript an
 1. html
 2. css javaScript
 3. Basics
--ES6
--Arrow functions
--Array Methods (map, filter, find, sort)
--Template literals
--Spread Operator
--Destructing
+- ES6
+- Arrow functions
+- Array Methods (map, filter, find, sort)
+- Template literals
+- Spread Operator
+- Destructing
